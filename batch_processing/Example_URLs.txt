@@ -1,0 +1,3 @@
+http://localhost/visualcube.php?fmt=svg&bg=t&size=640&sch=ee0,c00,08e,eee,e80,3e3&case=FURU%27R%27F%27UFURU%27R%27URU%27R%27F%27&fd=ououuuouoooorrrrrroooffffffdddddddddooollllllooobbbbbb&cc=n
+http://localhost/visualcube.php?fmt=svg&bg=t&size=640&sch=ee0,c00,08e,eee,e80,3e3&case=FURU%27R%27F%27UFURU%27R%27URU%27R%27F%27&fd=ououuuouoooorrrrrroooffffffdddddddddooollllllooobbbbbb&cc=n&ac=n&arw=F1F5F2-i5&cc=d
+http://localhost/visualcube.php?fmt=svg&bg=t&size=640&sch=ee0,c00,08e,eee,e80,3e3&case=URU%27R%27F%27UFURU%27R%27URU%27R%27F%27&fd=ououuuouoooorrrrrroooffffffdddddddddooollllllooobbbbbb&cc=n&ac=n&cc=d
